@@ -1,7 +1,12 @@
 # Demo Portal
 ```jsonc
-  https://www.wingmanhardware.com/
+  https://www.wingmanhardware.com
 ```
+# Source Code
+```jsonc
+  https://github.com/chhsBusinessSolution/pos_sys_admin_portal
+```
+
 # AWS ECS + ECR + GitHub Actions (Public‑Safe Guide)
 
 This guide shows how to deploy a containerized **frontend (static)** or **Node.js API** to **Amazon ECS (Fargate)** using **Amazon ECR** and **GitHub Actions** with **OIDC** — without storing long‑lived AWS keys. It uses **placeholders** you should replace for your own account.
